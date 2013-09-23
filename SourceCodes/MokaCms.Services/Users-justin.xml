@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Users>
+	<User>
+		<Username>robin</Username>
+		<Password>robin</Password>
+		<Email>robin@mokacms.org</Email>
+	</User>
+	<User>
+		<Username>patrick</Username>
+		<Password>patrick</Password>
+		<Email>patrick@mokacms.org</Email>
+	</User>
+	<User>
+		<Username>harold</Username>
+		<Password>harold</Password>
+		<Email>harold@mokacms.org</Email>
+	</User>
+	<User>
+		<Username>hayley</Username>
+		<Password>hayley</Password>
+		<Email>hayley@mokacms.org</Email>
+	</User>
+	<User>
+		<Username>sunju</Username>
+		<Password>sunju</Password>
+		<Email>sunju@mokacms.org</Email>
+	</User>
+	<User>
+		<Username>bongmin</Username>
+		<Password>bongmin</Password>
+		<Email>bongmin@mokacms.org</Email>
+	</User>
+	<User>
+		<Username>jiman</Username>
+		<Password>jiman</Password>
+		<Email>jiman@mokacms.org</Email>
+	</User>
+	<User>
+		<Username>justin</Username>
+		<Password>justin</Password>
+		<Email>justin@mokacms.org</Email>
+	</User>
+</Users>
